@@ -2370,6 +2370,7 @@ markers:
   - {type: punctuation, offset: 3888, content: ，, id: KR3ec011_jc_005-bkkpn1170}
   - {type: 'tls:seg', offset: 3888, content: '', id: KR3ec011_jc_005-d9.d2.d24.p12s21}
   - {type: punctuation, offset: 3893, content: (, id: KR3ec011_jc_005-bkkpn1171}
+  - {type: voice, offset: 3893, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3895, content: ), id: KR3ec011_jc_005-bkkpn1172}
   - {type: punctuation, offset: 3895, content: ，, id: KR3ec011_jc_005-bkkpn1173}
   - {type: 'tls:seg', offset: 3895, content: '', id: KR3ec011_jc_005-d9.d2.d24.p12s22}
@@ -2378,6 +2379,7 @@ markers:
   - {type: punctuation, offset: 3899, content: 、, id: KR3ec011_jc_005-bkkpn1175}
   - {type: 'tls:seg', offset: 3899, content: '', id: KR3ec011_jc_005-d9.d2.d24.p12s24}
   - {type: punctuation, offset: 3901, content: (, id: KR3ec011_jc_005-bkkpn1176}
+  - {type: voice, offset: 3901, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3902, content: ), id: KR3ec011_jc_005-bkkpn1177}
   - {type: punctuation, offset: 3904, content: ，, id: KR3ec011_jc_005-bkkpn1178}
   - {type: 'tls:seg', offset: 3904, content: '', id: KR3ec011_jc_005-d9.d2.d24.p12s25}
@@ -4639,6 +4641,7 @@ markers:
   - {type: punctuation, offset: 7261, content: ，, id: KR3ec011_jc_005-bkkpn2276}
   - {type: 'tls:seg', offset: 7261, content: '', id: KR3ec011_jc_005-d9.d2.d49.p4s9}
   - {type: punctuation, offset: 7262, content: (, id: KR3ec011_jc_005-bkkpn2277}
+  - {type: voice, offset: 7262, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 7264, content: ), id: KR3ec011_jc_005-bkkpn2278}
   - {type: punctuation, offset: 7265, content: ，, id: KR3ec011_jc_005-bkkpn2279}
   - {type: 'tls:seg', offset: 7265, content: '', id: KR3ec011_jc_005-d9.d2.d49.p4s10}
@@ -5751,4 +5754,4 @@ markers:
   - {type: punctuation, offset: 9007, content: 。, id: KR3ec011_jc_005-bkkpn2817}
   - {type: xml-element, offset: 9007, content: '', id: KR3ec011_jc_005-d9.d3.d10p2_end, name: p, role: close, attrs: {'xml:id': KR3ec011_jc_005-d9.d3.d10p2}}
   back: []
-hash: sha256:f3970fb81609f15c336d679c997745d4df668d286095c59ac00415a31d957a5b
+hash: sha256:4d24f20c93c4d43fcc572ae91f4172bf2b54cdfc900d64b9cb36e522e5c13af6
