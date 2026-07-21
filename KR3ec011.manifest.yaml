@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec011_000.yaml, hash: 'sha256:600e45fdf9ade5a964afab8712f42bc99d128b3e46588a7203a4855c591ecf15'}
+  - {seq: 0, filename: KR3ec011_000.yaml, hash: 'sha256:4282f3165356d3de654821cb3ffe47c12f7555b466022ab88f62fd3a9bee87ab'}
   - {seq: 1, filename: KR3ec011_001.yaml, hash: 'sha256:c83e6fed1d6b4b83cec4ad91319804871e0247f80922ccf4a9fe5a9f55951861'}
   - {seq: 2, filename: KR3ec011_002.yaml, hash: 'sha256:ce4c0c571a2808500f4ae2777ddd92fdc5280cbebed01b643bbca2f60bc0701f'}
   - {seq: 3, filename: KR3ec011_003.yaml, hash: 'sha256:afb5d91f9cdf474f580639a3e540d406ce8c0d423e00ad7af663cce6411a691a'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3ec011_005.yaml, hash: 'sha256:88dcb324085f0097476e00217bf531dbfdfcaec375d325c5713f32f94108d181'}
   - {seq: 6, filename: KR3ec011_006.yaml, hash: 'sha256:9b0c0f8611bce9a35bc60bc3671efbb291c76228a919d199e7e7a7ca34bd779c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec011_000.markers.yaml, hash: 'sha256:827e0a143be5fdd07fc63117a5705fc1d335933fcb2547a7a70095b72e90a9d6'}
+  - {seq: 0, role: markers, filename: assets/KR3ec011_000.markers.yaml, hash: 'sha256:51ac9655116167a7ab30b75f13c2f5cb45707f9616752de74e3c2ef5a96bb40d'}
   - {seq: 1, role: markers, filename: assets/KR3ec011_001.markers.yaml, hash: 'sha256:efb4f33755bd4916bb7f4267f531785146a5481f50a44d6225c112d9815f6460'}
   - {seq: 2, role: markers, filename: assets/KR3ec011_002.markers.yaml, hash: 'sha256:cfa5f96b6ef18ea68037c0da64e9b7d4b1c20a90684226199fba85fe18fab284'}
   - {seq: 3, role: markers, filename: assets/KR3ec011_003.markers.yaml, hash: 'sha256:44098cabbc6e50d0dbca88f75559c15948e67ec65cbdcbac212d47b05106a6fc'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec011_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 381
   label: 湯液本草序一
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec011_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 381
     - 810
   label: 湯液本草序二
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec011_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 810
     - 1480
   label: 湯液本草後序
@@ -3043,7 +3043,7 @@ table_of_contents:
   label: 緋帛
   type: section
   level: 3
-hash: sha256:a73f78019c315e4d2edf6805bacdb169e5ac7b668249803593ccbc86256107b4
+hash: sha256:82eab2876935358d852a0ebec7a4a85b0cd4918a9abfac17290ada6774697f62
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

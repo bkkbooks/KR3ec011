@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3ec011/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: punctuation, offset: 0, content: 《, id: KR3ec011_jc_000-bkkpn1}
   - {type: punctuation, offset: 4, content: 》, id: KR3ec011_jc_000-bkkpn2}
   - {type: xml-element, offset: 6, content: '', id: KR3ec011_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3ec011_jc_000-d2p2}}
@@ -601,6 +601,5 @@ markers:
   - {type: substitution, offset: 1478, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 1480, content: 。, id: KR3ec011_jc_000-bkkpn331}
   - {type: xml-element, offset: 1480, content: '', id: KR3ec011_jc_000-d4p2_end, name: p, role: close, attrs: {'xml:id': KR3ec011_jc_000-d4p2}}
-  body: []
   back: []
-hash: sha256:827e0a143be5fdd07fc63117a5705fc1d335933fcb2547a7a70095b72e90a9d6
+hash: sha256:51ac9655116167a7ab30b75f13c2f5cb45707f9616752de74e3c2ef5a96bb40d
